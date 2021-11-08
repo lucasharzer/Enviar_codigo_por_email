@@ -1,0 +1,16 @@
+{
+  "name": "codigo_email",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.7.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
