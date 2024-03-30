@@ -22,5 +22,11 @@ Arquivo index.js
 
 # Comandos: 
 
-- npm install 
-- npm start
+Instalar dependências necessárias:
+```bash
+npm install
+```
+Executar programa:
+```bash
+npm start
+```
